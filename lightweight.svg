@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="feather-2.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5"
+     inkscape:cx="41.9"
+     inkscape:cy="48.289174"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,32)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#8acdef;fill-opacity:1;stroke:#8acdef;stroke-width:1.01074966000000011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2993"
+       sodipodi:cx="48.010609"
+       sodipodi:cy="47.989391"
+       sodipodi:rx="48.010609"
+       sodipodi:ry="48.010609"
+       d="M 96.021217,47.989391 C 96.021217,74.504918 74.526136,96 48.010609,96 21.495082,96 0,74.504918 0,47.989391 0,21.473864 21.495082,-0.02121735 48.010609,-0.02121735 c 26.515527,0 48.010608,21.49508135 48.010608,48.01060835 z"
+       transform="matrix(0.98936467,0,0,0.98936467,0.5,-31.479008)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#006498;fill-opacity:1;stroke:#006498;stroke-opacity:1;stroke-width:0.89227588999999985;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2995"
+       sodipodi:cx="41.099998"
+       sodipodi:cy="40.299999"
+       sodipodi:rx="34.900002"
+       sodipodi:ry="36.5"
+       d="m 76,40.299999 c 0,20.158394 -15.625263,36.5 -34.900002,36.5 -19.274738,0 -34.9000011,-16.341606 -34.9000011,-36.5 C 6.1999969,20.141606 21.82526,3.7999992 41.099998,3.7999992 60.374737,3.7999992 76,20.141606 76,40.299999 z"
+       transform="matrix(1.1461318,0,0,1.0958904,0.89398454,-28.164382)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.1,-4.4296985 -8.8,1.8 c -2.266667,-2.933333 -4.933333,-3.266667 -10,-0.4 0.733333,1.133333 3.666667,1.466667 3.4,2.80000003 -7.066667,-3.20000003 -13.533333,0.2 -19.6,4.79999997 3.6,-0.2 5,0.8 6.8,2.4 -8.130028,0.819287 -10.77841,-2.458425 -19,8.0000005 3.466667,0.2 6.533333,1.4 10,1.6 -21.6,1.2 -18,8.4 -27,12.6 10.6,8.866667 15,1.933333 20.4,-2.2 -1.768245,6.022682 -6.2105,7.221072 -12.6,9.2 31.8,5.333333 30.2,-15.933333 38.4,-27.4000005 l -2.4,7.8000005 c 6,-3.4 5.4,-8.2000005 7.6,-10.8000005 -0.2,1.533333 -1.2,5.0666675 -1.4,6.6000005 6,-2.2 7.2,-8.6000005 7,-13.20000047 z"
+       id="path4979"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="fill:#e4e4e4;fill-opacity:1;stroke:none"
+       d="m 38.6,54.8 c 7.266667,-0.733333 12.933333,-15.266667 32,-23.2 l 0,-1.2 c -21.266667,9.933333 -20.533333,17.466667 -32,24.4 z"
+       id="path4981"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-32)"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
