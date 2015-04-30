@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lego-2.svg">
+   sodipodi:docname="modular-3.svg">
   <defs
      id="defs2987">
     <linearGradient
@@ -35,7 +35,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5"
-     inkscape:cx="54.942882"
+     inkscape:cx="42.1"
      inkscape:cy="51.351517"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -65,7 +65,7 @@
      transform="translate(0,32)">
     <path
        sodipodi:type="arc"
-       style="fill:#b4b400;fill-opacity:1;stroke:#b4b400;stroke-width:1.01074966000000011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#555555;fill-opacity:1;stroke:#555555;stroke-width:1.01074966000000011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path2993"
        sodipodi:cx="48.010609"
        sodipodi:cy="47.989391"
@@ -75,7 +75,7 @@
        transform="matrix(0.98936467,0,0,0.98936467,0.5,-31.479008)" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-opacity:1;stroke-width:0.89227588999999985;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#dddddd;fill-opacity:1;stroke:#dddddd;stroke-opacity:1;stroke-width:0.89227588999999985;stroke-miterlimit:4;stroke-dasharray:none"
        id="path2995"
        sodipodi:cx="41.099998"
        sodipodi:cy="40.299999"

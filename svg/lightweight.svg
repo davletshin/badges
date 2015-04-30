@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="feather-2.svg">
+   sodipodi:docname="lightweight.svg">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5"
-     inkscape:cx="41.9"
+     inkscape:cx="42.1"
      inkscape:cy="48.289174"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,7 +74,7 @@
        d="m 76,40.299999 c 0,20.158394 -15.625263,36.5 -34.900002,36.5 -19.274738,0 -34.9000011,-16.341606 -34.9000011,-36.5 C 6.1999969,20.141606 21.82526,3.7999992 41.099998,3.7999992 60.374737,3.7999992 76,20.141606 76,40.299999 z"
        transform="matrix(1.1461318,0,0,1.0958904,0.89398454,-28.164382)" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 80.1,-4.4296985 -8.8,1.8 c -2.266667,-2.933333 -4.933333,-3.266667 -10,-0.4 0.733333,1.133333 3.666667,1.466667 3.4,2.80000003 -7.066667,-3.20000003 -13.533333,0.2 -19.6,4.79999997 3.6,-0.2 5,0.8 6.8,2.4 -8.130028,0.819287 -10.77841,-2.458425 -19,8.0000005 3.466667,0.2 6.533333,1.4 10,1.6 -21.6,1.2 -18,8.4 -27,12.6 10.6,8.866667 15,1.933333 20.4,-2.2 -1.768245,6.022682 -6.2105,7.221072 -12.6,9.2 31.8,5.333333 30.2,-15.933333 38.4,-27.4000005 l -2.4,7.8000005 c 6,-3.4 5.4,-8.2000005 7.6,-10.8000005 -0.2,1.533333 -1.2,5.0666675 -1.4,6.6000005 6,-2.2 7.2,-8.6000005 7,-13.20000047 z"
        id="path4979"
        inkscape:connector-curvature="0"
