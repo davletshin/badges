@@ -1,9 +1,9 @@
 # Badges
 
-## ![Fast](fast.svg) Fast
+## ![Fast](png/fast-96x96.png) Fast
 
-## ![Powerful](fast.svg) Powerful
+## ![Powerful](png/powerful-96x96.png) Powerful
 
-## ![Lightweight](fast.svg) Lightweight
+## ![Lightweight](png/lightweight-96x96.png) Lightweight
 
-## ![Modular](fast.svg) Modular
+## ![Modular](png/modular-96x96.png) Modular
