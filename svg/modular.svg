@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="modular-3.svg">
+   sodipodi:docname="modular.svg">
   <defs
      id="defs2987">
     <linearGradient
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,7 +65,7 @@
      transform="translate(0,32)">
     <path
        sodipodi:type="arc"
-       style="fill:#555555;fill-opacity:1;stroke:#555555;stroke-width:1.01074966000000011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:1.01074966000000011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path2993"
        sodipodi:cx="48.010609"
        sodipodi:cy="47.989391"
