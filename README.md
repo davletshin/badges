@@ -6,6 +6,9 @@ Available sizes: 256x256, 128x128, 96x96, 64x64, 48x48.
 ![Fast](png/fast-64x64.png)
 ![Fast](png/fast-48x48.png)
 
+[256x256](png/fast-256x256.png)
+[128x128](png/fast-128x128.png)
+
 Markdown 96x96 px:
 ```markdown
 [![Fast](https://github.com/davletshin/badges/raw/master/png/fast-96x96.png)](https://github.com/davletshin/badges#fast)
@@ -27,6 +30,9 @@ HTML 96x96 px:
 ![Powerful](png/powerful-96x96.png)
 ![Powerful](png/powerful-64x64.png)
 ![Powerful](png/powerful-48x48.png)
+
+[256x256](png/powerful-256x256.png)
+[128x128](png/powerful-128x128.png)
 
 Markdown 96x96 px:
 ```markdown
@@ -50,6 +56,9 @@ HTML 96x96 px:
 ![Lightweight](png/lightweight-64x64.png)
 ![Lightweight](png/lightweight-48x48.png)
 
+[256x256](png/lightweight-256x256.png)
+[128x128](png/lightweight-128x128.png)
+
 Markdown 96x96 px:
 ```markdown
 [![Lightweight](https://github.com/davletshin/badges/raw/master/png/lightweight-96x96.png)](https://github.com/davletshin/badges#lightweight)
@@ -71,6 +80,9 @@ HTML 96x96 px:
 ![Modular](png/modular-96x96.png)
 ![Modular](png/modular-64x64.png)
 ![Modular](png/modular-48x48.png)
+
+[256x256](png/modular-256x256.png)
+[128x128](png/modular-128x128.png)
 
 Markdown 96x96 px:
 ```markdown
