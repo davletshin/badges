@@ -1,22 +1,22 @@
 # Badges
-Available sizes: 256 x 256, 128 x 128, 96 x 96, 64 x 64, 48 x 48.
+Available sizes: 256x256, 128x128, 96x96, 64x64, 48x48.
 
 ## Fast
 ![Fast](png/fast-96x96.png)
-![Fast](png/fast-96x96.png)
-![Fast](png/fast-96x96.png)
+![Fast](png/fast-64x64.png)
+![Fast](png/fast-48x48.png)
 
-Markdown 96 x 96 px:
+Markdown 96x96 px:
 ```markdown
 [![Fast](https://github.com/davletshin/badges/raw/master/png/fast-96x96.png)](https://github.com/davletshin/badges#fast)
 ```
 
-Textile 96 x 96 px:
+Textile 96x96 px:
 ```
 !https://github.com/davletshin/badges/raw/master/png/fast-96x96.png(Fast)!:https://github.com/davletshin/badges#fast
 ```
 
-HTML 96 x 96 px:
+HTML 96x96 px:
 ```html
 <a href="https://github.com/davletshin/badges#fast">
     <img src="https://github.com/davletshin/badges/raw/master/png/fast-96x96.png" alt="Fast">
@@ -25,20 +25,20 @@ HTML 96 x 96 px:
 
 ## Powerful
 ![Powerful](png/powerful-96x96.png)
-![Powerful](png/powerful-96x96.png)
-![Powerful](png/powerful-96x96.png)
+![Powerful](png/powerful-64x64.png)
+![Powerful](png/powerful-48x48.png)
 
-Markdown 96 x 96 px:
+Markdown 96x96 px:
 ```markdown
 [![Powerful](https://github.com/davletshin/badges/raw/master/png/powerful-96x96.png)](https://github.com/davletshin/badges#powerful)
 ```
 
-Textile 96 x 96 px:
+Textile 96x96 px:
 ```
 !https://github.com/davletshin/badges/raw/master/png/powerful-96x96.png(Powerful)!:https://github.com/davletshin/badges#powerful
 ```
 
-HTML 96 x 96 px:
+HTML 96x96 px:
 ```html
 <a href="https://github.com/davletshin/badges#powerful">
     <img src="https://github.com/davletshin/badges/raw/master/png/powerful-96x96.png" alt="Powerful">
@@ -47,20 +47,20 @@ HTML 96 x 96 px:
 
 ## Lightweight
 ![Lightweight](png/lightweight-96x96.png)
-![Lightweight](png/lightweight-96x96.png)
-![Lightweight](png/lightweight-96x96.png)
+![Lightweight](png/lightweight-64x64.png)
+![Lightweight](png/lightweight-48x48.png)
 
-Markdown 96 x 96 px:
+Markdown 96x96 px:
 ```markdown
 [![Lightweight](https://github.com/davletshin/badges/raw/master/png/lightweight-96x96.png)](https://github.com/davletshin/badges#lightweight)
 ```
 
-Textile 96 x 96 px:
+Textile 96x96 px:
 ```
 !https://github.com/davletshin/badges/raw/master/png/lightweight-96x96.png(Lightweight)!:https://github.com/davletshin/badges#lightweight
 ```
 
-HTML 96 x 96 px:
+HTML 96x96 px:
 ```html
 <a href="https://github.com/davletshin/badges#lightweight">
     <img src="https://github.com/davletshin/badges/raw/master/png/lightweight-96x96.png" alt="Lightweight">
@@ -69,20 +69,20 @@ HTML 96 x 96 px:
 
 ## Modular
 ![Modular](png/modular-96x96.png)
-![Modular](png/modular-96x96.png)
-![Modular](png/modular-96x96.png)
+![Modular](png/modular-64x64.png)
+![Modular](png/modular-48x48.png)
 
-Markdown 96 x 96 px:
+Markdown 96x96 px:
 ```markdown
 [![Modular](https://github.com/davletshin/badges/raw/master/png/modular-96x96.png)](https://github.com/davletshin/badges#modular)
 ```
 
-Textile 96 x 96 px:
+Textile 96x96 px:
 ```
 !https://github.com/davletshin/badges/raw/master/png/modular-96x96.png(Modular)!:https://github.com/davletshin/badges#modular
 ```
 
-HTML 96 x 96 px:
+HTML 96x96 px:
 ```html
 <a href="https://github.com/davletshin/badges#modular">
     <img src="https://github.com/davletshin/badges/raw/master/png/modular-96x96.png" alt="Modular">
